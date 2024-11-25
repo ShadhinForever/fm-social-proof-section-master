@@ -17,8 +17,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [frontendmentor](#)
-- Live Site URL: [vercel](#)
+- Solution URL: [Social proof section](https://www.frontendmentor.io/solutions/social-proof-section-with-css-grid-and-flexbox-N8G-dW6_gv)
+- Live Site URL: [Social proof section](https://fm-social-proof-section-master-omega.vercel.app/)
 
 ## My process
 
